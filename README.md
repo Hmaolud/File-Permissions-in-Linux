@@ -18,15 +18,14 @@ understanding and manipulating file permissions in Linux. This is essential know
 
 <h2></h2>
 
-- Intake
-- Assignment & Comunication
-- Working on issues
-- Resolutions
 
-<h2>Lifestyle stages</h2>
+<h2>Check file and directory details</h2>
 
 <p>
-<img src="https://i.imgur.com/sfHgahs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![My Image](https://i.imgur.com/xyz123.png)
+
+
+
 </p>
 <p>
 Upon login to the agent portal, you should see tickets. If not, you may have to log back in as an admin and reset the agent's permissions and departments. All tickets assigned to the agent will be on this screen.
