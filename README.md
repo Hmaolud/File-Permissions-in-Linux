@@ -3,7 +3,7 @@
 </p>
 
 <h1>Linux-File_Permission</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+understanding and manipulating file permissions in Linux. This is essential knowledge in Linux for securing files and directories.<br />
 
 
 <h2>Environments and Technologies Used</h2>
