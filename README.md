@@ -33,7 +33,7 @@ ls -la reveals hidden files these files are identified with a (.) in front of th
 <img src="https://imgur.com/KQJkB3q.png" height="80%" width="80%">
 </p>
 <p>
-Linux permissions strings (e.g., drwxr-xr-x) show the access levels for files and directories. The string is divided into three groups for the owner, group, and others, each indicating read, write, and execute permissions.
+Linux permissions strings (e.g., drwxr-xr-x) show the access levels for files and directories. The string is divided into three groups for the users, group, and others, each indicating read, write, and execute permissions.
 </p>
 <br />
 
